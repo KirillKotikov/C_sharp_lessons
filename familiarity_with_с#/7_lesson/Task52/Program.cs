@@ -19,6 +19,7 @@ namespace seventh_lesson
             int[,] array = GenerateNewTwoDimensionalArray();
             PrintTwoDimensionalArray(array);
             PrintAverageOfColumnsFromArray(array);
+            List<GenerateNewTwoDimensionalArray()> List = new List<>();
 
 
         }
